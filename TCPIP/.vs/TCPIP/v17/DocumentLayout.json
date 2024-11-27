@@ -1,12 +1,156 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\01-4 winsock func and example||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:chapter1\\chapter1\\01-4 winsock func and example||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\01-3 windows||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:chapter1\\chapter1\\01-3 windows||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\01-2 rinux||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:chapter1\\chapter1\\01-2 rinux||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\hello_server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:chapter1\\chapter1\\hello_server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\hello_client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:chapter1\\chapter1\\hello_client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\chapter1.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:chapter1\\chapter1\\chapter1.vcxproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\chapter1.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:chapter1\\chapter1\\chapter1.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\chapter1.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:chapter1\\chapter1\\chapter1.vcxproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "01-4 winsock func and example",
+              "DocumentMoniker": "C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\01-4 winsock func and example",
+              "RelativeDocumentMoniker": "chapter1\\chapter1\\01-4 winsock func and example",
+              "ToolTip": "C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\01-4 winsock func and example",
+              "RelativeToolTip": "chapter1\\chapter1\\01-4 winsock func and example",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T13:51:45.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "01-3 windows",
+              "DocumentMoniker": "C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\01-3 windows",
+              "RelativeDocumentMoniker": "chapter1\\chapter1\\01-3 windows",
+              "ToolTip": "C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\01-3 windows",
+              "RelativeToolTip": "chapter1\\chapter1\\01-3 windows",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T13:51:42.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "01-2 rinux",
+              "DocumentMoniker": "C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\01-2 rinux",
+              "RelativeDocumentMoniker": "chapter1\\chapter1\\01-2 rinux",
+              "ToolTip": "C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\01-2 rinux",
+              "RelativeToolTip": "chapter1\\chapter1\\01-2 rinux",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T13:51:42.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hello_server.c",
+              "DocumentMoniker": "C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\hello_server.c",
+              "RelativeDocumentMoniker": "chapter1\\chapter1\\hello_server.c",
+              "ToolTip": "C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\hello_server.c",
+              "RelativeToolTip": "chapter1\\chapter1\\hello_server.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-27T13:51:35.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "hello_client.c",
+              "DocumentMoniker": "C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\hello_client.c",
+              "RelativeDocumentMoniker": "chapter1\\chapter1\\hello_client.c",
+              "ToolTip": "C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\hello_client.c",
+              "RelativeToolTip": "chapter1\\chapter1\\hello_client.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-27T13:51:28.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "chapter1.vcxproj.user",
+              "DocumentMoniker": "C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\chapter1.vcxproj.user",
+              "RelativeDocumentMoniker": "chapter1\\chapter1\\chapter1.vcxproj.user",
+              "ToolTip": "C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\chapter1.vcxproj.user",
+              "RelativeToolTip": "chapter1\\chapter1\\chapter1.vcxproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-11-27T13:51:26.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "chapter1.vcxproj.filters",
+              "DocumentMoniker": "C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\chapter1.vcxproj.filters",
+              "RelativeDocumentMoniker": "chapter1\\chapter1\\chapter1.vcxproj.filters",
+              "ToolTip": "C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\chapter1.vcxproj.filters",
+              "RelativeToolTip": "chapter1\\chapter1\\chapter1.vcxproj.filters",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T13:51:26.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "chapter1.vcxproj",
+              "DocumentMoniker": "C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\chapter1.vcxproj",
+              "RelativeDocumentMoniker": "chapter1\\chapter1\\chapter1.vcxproj",
+              "ToolTip": "C:\\Users\\gmltjr\\Documents\\GitHub\\CPP-and-TCP-IP-study\\TCPIP\\chapter1\\chapter1\\chapter1.vcxproj",
+              "RelativeToolTip": "chapter1\\chapter1\\chapter1.vcxproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000698|",
+              "WhenOpened": "2024-11-27T13:51:25.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

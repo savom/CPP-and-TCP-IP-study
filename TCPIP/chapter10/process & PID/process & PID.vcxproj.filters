@@ -18,5 +18,17 @@
     <ClCompile Include="프로세스의 이해와 활용">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="좀비">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="시그널 핸들링">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="멀티태스킹 기반의 다중접속 서버">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TCP의 입출력 루틴 분할">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
